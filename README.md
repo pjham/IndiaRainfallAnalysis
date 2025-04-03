@@ -8,6 +8,7 @@ India's monsoon-dependent economy, agricultural sustainability, and water resour
 ## Setup Instructions
 1. The `.ipynb` file can be run in a **Kaggle notebook environment** where the data will be loaded automatically.
 2. If not using Kaggle, manually read the data and store it in a variable `df` in the first cell—the code will still work properly.
+3. Dataset used is the rainfall data provided (India rainfall data for subdivisions for all months from 1901 to 2017)
 
 ---
 
