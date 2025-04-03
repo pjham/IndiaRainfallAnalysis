@@ -5,6 +5,12 @@ India's monsoon-dependent economy, agricultural sustainability, and water resour
 
 ---
 
+## Setup Instructions
+1. The `.ipynb` file can be run in a **Kaggle notebook environment** where the data will be loaded automatically.
+2. If not using Kaggle, manually read the data and store it in a variable `df` in the first cell—the code will still work properly.
+
+---
+
 ## Key Findings from Data Analysis
 
 ### Long-Term Rainfall Trends
@@ -54,17 +60,6 @@ India's monsoon-dependent economy, agricultural sustainability, and water resour
 
 ---
 
-## Conclusion
-This study provides a data-driven approach to understanding India’s rainfall patterns and forecasting future trends. By leveraging statistical time-series models and machine learning, we can equip policymakers, farmers, and disaster management teams with crucial insights for climate resilience and sustainable development.
-
----
-
-## Setup Instructions
-1. The `.ipynb` file can be run in a **Kaggle notebook environment** where the data will be loaded automatically.
-2. If not using Kaggle, manually read the data and store it in a variable `df` in the first cell—the code will still work properly.
-
----
-
 ## Tools & Technologies Used
 **Python** – Main programming language  
 **Pandas** – Data manipulation & preprocessing  
@@ -74,6 +69,13 @@ This study provides a data-driven approach to understanding India’s rainfall p
 **Statsmodels** – Time series analysis (Dickey-Fuller test, ACF/PACF, SARIMA)  
 **Scikit-learn** – Machine learning utilities (train-test split, evaluation)  
 **XGBoost** – Machine learning model for rainfall prediction  
+
+
+---
+
+## Conclusion
+This study provides a data-driven approach to understanding India’s rainfall patterns and forecasting future trends. By leveraging statistical time-series models and machine learning, we can equip policymakers, farmers, and disaster management teams with crucial insights for climate resilience and sustainable development.
+
 
 ---
 
